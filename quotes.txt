@@ -11,4 +11,5 @@ Non-blocking is better than blocking
 Favor focus over features
 Avoid administrative distraction
 Design for failure
+let's learning a Python
 Keep it logically awesome
